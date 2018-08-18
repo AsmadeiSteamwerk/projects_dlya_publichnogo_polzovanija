@@ -1,0 +1,10 @@
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: whitesmoke;
+    width: 1000px;
+    height: 50px;
+    position:absolute;
+}
